@@ -16,6 +16,7 @@ const Counter=()=>{
                    handleChange(-1)
                }}>Decrement(-1)</button>
                <button onClick={()=>{
+                   
                    handleChange(counter)
                }}>Double</button>
             </div>
