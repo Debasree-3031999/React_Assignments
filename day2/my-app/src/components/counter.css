@@ -1,0 +1,13 @@
+.greentxt{
+    color:green
+}
+.redtxt{
+    color: red;
+}
+button{
+    margin: 1%;
+    border-color: transparent;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
